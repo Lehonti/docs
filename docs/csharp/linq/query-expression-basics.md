@@ -128,7 +128,7 @@ ms.assetid: 027db1f8-346f-44d2-a16e-043fcea3a4e0
   
 ### Filtering, ordering, and joining
 
- Between the starting `from` clause, and the ending `select` or `group` clause, all other clauses (`where`, `join`, `orderby`, `from`, `let`) are optional. Any of the optional clauses may be used zero times or multiple times in a query body.  
+ Between the starting `from` clause, and the ending `select` or `group` clause, all other clauses (`where`, `join`, `orderby`, `from`, `let`) are optional. Any of the optional clauses may be used zero, one, or multiple times in a query body.  
   
 #### where clause  
 
